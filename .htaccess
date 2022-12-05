@@ -1,0 +1,4 @@
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Headers "range"
+Header set Accept-Ranges "bytes"
+Header set Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS"
